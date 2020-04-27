@@ -1,5 +1,19 @@
 # Release History
 
+### 0.8.0 / 2020-04-27
+
+#### ⚠ BREAKING CHANGES
+
+* **automl:** Convert google-cloud-automl to a wrapper gem
+
+#### Features
+
+* Convert google-cloud-automl to a wrapper gem
+
+#### Documentation
+
+* Updated the sample timeouts in the migration guide to reflect seconds
+
 ### 0.7.1 / 2020-04-01
 
 #### Documentation
