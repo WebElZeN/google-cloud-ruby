@@ -1,5 +1,15 @@
 # Release History
 
+### 0.12.0 / 2020-04-27
+
+#### ⚠ BREAKING CHANGES
+
+* **container:** Change google-cloud-container to a wrapper gem
+
+#### Features
+
+* Change google-cloud-container to a wrapper gem
+
 ### 0.11.0 / 2020-04-10
 
 #### Features
