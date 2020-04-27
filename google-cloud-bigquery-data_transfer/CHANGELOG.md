@@ -1,5 +1,20 @@
 # Release History
 
+### 0.10.0 / 2020-04-27
+
+#### ⚠ BREAKING CHANGES
+
+* **bigquery-data_transfer:** Convert google-cloud-bigquery-data_transfer to a wrapper
+
+#### Features
+
+* Convert google-cloud-bigquery-data_transfer to a wrapper
+
+#### Documentation
+
+* Include a multi-pattern path helper example in the migration guide
+* Updated the sample timeouts in the migration guide to reflect seconds
+
 ### 0.9.0 / 2020-04-09
 
 #### Features
