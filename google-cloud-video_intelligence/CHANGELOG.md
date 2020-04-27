@@ -1,5 +1,19 @@
 # Release History
 
+### 3.0.0 / 2020-04-27
+
+#### ⚠ BREAKING CHANGES
+
+* **video_intelligence:** Convert google-cloud-video_intelligence to a wrapper
+
+#### Features
+
+* Convert google-cloud-video_intelligence to a wrapper
+
+#### Documentation
+
+* Updated the sample timeouts in the migration guide to reflect seconds
+
 ### 2.1.1 / 2020-04-01
 
 #### Documentation
