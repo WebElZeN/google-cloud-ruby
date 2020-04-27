@@ -1,5 +1,21 @@
 # Release History
 
+### 0.9.0 / 2020-04-27
+
+#### ⚠ BREAKING CHANGES
+
+* **redis:** Convert google-cloud-redis to a wrapper
+
+#### Features
+
+* Convert google-cloud-redis to a wrapper
+* Let Bundler.require load the gem without an extra explicit require call.
+
+#### Documentation
+
+* Add resource path helpers section to migration guide
+* Updated the sample timeouts in the migration guide to reflect seconds
+
 ### 0.8.2 / 2020-04-01
 
 #### Documentation
